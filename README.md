@@ -1,7 +1,5 @@
-# Sistem Informasi Mahasiswa 
-# Telkom University
-## Frontend
----
+# Sistem Informasi Mahasiswa
+Submisson for Telkom University Scholarship (2022)
 
 ## Start
 
